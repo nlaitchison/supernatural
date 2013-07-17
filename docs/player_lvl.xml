@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<levels>
+	<level lvl="1" max_hp="100" max_dmg="55" max_xp="40" gained_xp="10"></level>
+	<level lvl="2" max_hp="140" max_dmg="65" max_xp="60" gained_xp="15"></level>
+</levels>
