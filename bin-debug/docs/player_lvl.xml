@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<levels>
+	<level lvl="1" max_hp="100" max_dmg="55" max_xp="40" gained_xp="10"></level>
+	<level lvl="2" max_hp="140" max_dmg="65" max_xp="60" gained_xp="10"></level>
+	<level lvl="3" max_hp="180" max_dmg="75" max_xp="80" gained_xp="10"></level>
+	<level lvl="4" max_hp="220" max_dmg="85" max_xp="100" gained_xp="10"></level>
+	<level lvl="5" max_hp="260" max_dmg="95" max_xp="120" gained_xp="10"></level>
+	<level lvl="6" max_hp="300" max_dmg="100" max_xp="140" gained_xp="10"></level>
+	<level lvl="7" max_hp="340" max_dmg="110" max_xp="160" gained_xp="10"></level>
+	<level lvl="8" max_hp="380" max_dmg="120" max_xp="180" gained_xp="10"></level>
+	<level lvl="9" max_hp="420" max_dmg="130" max_xp="200" gained_xp="10"></level>
+	<level lvl="10" max_hp="460" max_dmg="140" max_xp="210" gained_xp="10"></level>
+</levels>
